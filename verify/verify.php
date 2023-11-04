@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:10.383333,
+xcitv-premium-channel0.ts
+#EXTINF:9.566667,
+xcitv-premium-channel1.ts
+#EXT-X-ENDLIST
